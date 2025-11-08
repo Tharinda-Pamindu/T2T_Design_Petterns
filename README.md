@@ -2,7 +2,7 @@
 
 ## Project Context
 
-This project was developed as part of the **T2T (Trade to Theory) program** for the **Architecture** module.
+This project was developed as part of the **T2T (Theory to Trade) program** for the **Architecture** module.
 
 This repository contains a collection of simple, self-contained Java projects, each designed to provide a clear and practical demonstration of a fundamental software design pattern.
 
